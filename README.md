@@ -2,7 +2,7 @@
 # API Expert
 A challenge for the software API expert in you - to share your skill and talent with our exciting engineering group, upon contact.
 ## Challenge
-Your challenge, should you choose to accept it, is to design and develop a REST API in Javascript for the given user-stories. To test your solution, you will have to create an API that returns JSON response.
+Your challenge, should you choose to accept it, is to design and develop a REST API in nodejs for the given user-stories. To test your solution, you will have to create an API that returns JSON response.
 ### User Stories
 - As a user, I want to manage (List/Add/Update/Delete) my parts
 with properties - Material Type, Printer Type, Orientation Angle, Density Percentage
